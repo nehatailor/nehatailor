@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neha Tailor
 - 👀 I’m interested in exploring the world of Data Analytics and applying to real life scenarios.
-- 🌱 I’m currently learning Microsoft Excel, Tableau, SQL ad Python.
+- 🌱 I’m currently learning Microsoft Excel, Tableau, SQL and Python.
 - 💞️ I'm currently working on completing the final portions of the CareerFoundry program.
 - 📫 How to reach me.. nehatailor1984@gmail.com
 
