@@ -3,6 +3,7 @@
 - 🌱 Experience gained with using Microsoft Excel, Tableau, SQL and Python.
 - 💞️ I have completed the CareerFoundry Data Analytics program and achieved my certificate.
 - 📫 How to reach me - nehatailor1984@gmail.com
+- 🖇️ www.linkedin.com/in/neha-tailor
 
 <!---
 nehatailor/nehatailor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
