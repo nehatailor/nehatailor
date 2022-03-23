@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neha Tailor
 - 👀 I’m interested in exploring the world of Data Analytics and applying it to real life scenarios. 
-- 🌱 Experience gained with using Microsoft Excel, Tableau, SQL and Python.
+- 🌱 Experience with using Microsoft Excel, Tableau, SQL and Python.
 - 💞️ I have completed the CareerFoundry Data Analytics program and achieved my certificate.
 - 📫 How to reach me - nehatailor1984@gmail.com
 - 🖇️ www.linkedin.com/in/neha-tailor
